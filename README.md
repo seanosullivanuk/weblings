@@ -1,4 +1,10 @@
 # Weblings
+
+ <h4>
+    <img src="https://img.shields.io/badge/Weblings-2.1-purple.svg" />
+    <a href="https://github.com/seanosullivanuk/homeassistant-config/commits/master"><img src="https://img.shields.io/github/last-commit/seanosullivanuk/weblings.svg?style=plasticr"/></a>
+  </h4>
+
 Add a little joy to your browser's new tab page.
 
 ![Weblings in Chrome](https://raw.githubusercontent.com/seanosullivanuk/weblings/master/weblings2_screenshot.png)
