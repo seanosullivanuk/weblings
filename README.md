@@ -7,7 +7,7 @@
 
 Add a little joy to your browser's new tab page.
 
-![Weblings in Edge](https://raw.githubusercontent.com/seanosullivanuk/weblings/master/weblings3_screenshot_edge.png)
+![Weblings in Edge](https://raw.githubusercontent.com/seanosullivanuk/weblings/master/weblings3-splash.png)
 
 Add a little joy to your browser's new tab page.
 
@@ -15,7 +15,7 @@ Add a little colour and joy to your new browser tabs with Weblings.
 
 Every time you open a new tab or window in Edge, one of the Weblings will appear with a heartening welcome, a lighthearted pun, or a spark of positivity to brighten up your day. The Weblings are an assortment of characters of my own creation.
 
-Features:
+## Features:
 
 🌇 Four image sets - Get an appetite with the Foodlings or the Fruit and Veglings. Smile with the Scribblings or feel the warmth (or the cold) with the Weatherlings
 
