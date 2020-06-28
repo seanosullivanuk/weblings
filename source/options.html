@@ -7,43 +7,85 @@
         <meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="robots" content="index. follow" />
-		<meta name="author" content="Sean O'Sullivan" />
-
+        <meta name="author" content="Sean O'Sullivan" />
+        
         <link rel="stylesheet" href="assets/css/core.css" media="all" />
         <link rel="stylesheet" href="assets/css/mini.css" media="all" />
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans" media="all" />
+        <link rel="stylesheet" href="assets/css/fonts.css" media="all" />
 
     </head>
 
-    <body style="background-color: #f3f3f3">
+    <body style="background-image: linear-gradient(90deg, rgb(255, 154, 139) 0%, rgb(255, 106, 136) 55%, rgb(255, 153, 172) 100%);">
+    
+        <div id="container_options_header">
 
-        <div id="container_optionsheader">
             <h2>Options</h2>
+
         </div>
+        
+        <div id="container_options_content">
 
-        <div id="container_optionscontent">
+            <p>Customise your Weblings experience with your choice of images, dialogue and backgrounds.</p>
 
-            <h3>Search</h3>
-            <p>You can optionally show or hide the search bar, which uses DuckDuckGo.</p>
+            <h3>Image Set</h3>
 
-            <p>
-                <label>
-                <input type="checkbox" id="showsearchbar"> Show the Search bar
-                </label>
-            </p>
-                  
-                  
-            <p><button id="save">Save Options</button></p>
+            <img id="set_images_selected" name="img_imageset" src="assets/sets/images/placeholder.png" width=150px height=150px alt="A preview of the selected image set">
+            
+            <br /><br />
+
+            <div class="dropdownstyle">
+                <select id="set_images">
+                    <option value="foodlings">Foodlings</option>
+                    <option value="fruitveglings">Fruit and Veglings</option>
+                    <option value="scribblings">Scribblings</option>
+                    <option value="weatherlings">Weatherlings</option>
+                </select>
+            </div>
+
+            <h3>Dialogue Set</h3>
+
+            <img id="set_dialogue_selected" name="img_dialogueset" src="assets/sets/images/placeholder.png" style="border: 4px solid #3a2525; border-radius: 8px; max-height: 200px; max-width: 200px" alt="A preview of the selected dialogue set">
+
+            <br /><br />
+            
+            <div class="dropdownstyle">
+                <select id="set_dialogue">
+                    <option value="puns">All the puns</option>
+                    <option value="greetings">Friendly greetings</option>
+                    <option value="positivity">Positivity</option>
+                </select>
+            </div>
+
+            <h3>Background Style</h3>
+
+            <img id="set_background_selected" name="img_backgroundset" src="assets/sets/images/placeholder.png" width=150px height=150px alt="A preview of the selected background set">
+            
+            <br /><br />
+
+            <div class="dropdownstyle">
+                <select id="set_background">
+                    <option value="gradient">Colour gradients</option>
+                    <option value="solid">Solid colours</option>
+                </select>
+            </div>
+            
+            <br /><br />
+            
+            <button id="save" class="button_options_save">Save</button>
+            
+            <br /><br />
 
             <div id="status"></div>
-                  
+
             <script src="assets/logic/options.js"></script>
+
+            <div>
+                <p>Lovingly made by <a href="https://seanosullivan.co.uk">Sean O'Sullivan</a></p>
+            </div>
 
         </div>
 
-
-        
+        <div><br /><br /></div>
 
     </body>
-
 </html>

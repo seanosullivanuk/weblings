@@ -1,18 +1,14 @@
 /*
 
-Name:			Fonts.
-Description: 	Fonts stylesheet, production.
-Author:			Sean O'Sullivan.
-Version:		2018-09-05.
+Name:			Fonts
+Description: 	Embdedded font files used within Weblings
+Author:			Sean O'Sullivan
+Version:		2020-06-27
 
 */
 
-
 @font-face {
-    font-family: 'open_sansregular';
-    src: url('../fonts/opensans-regular-webfont.woff2') format('woff2'),
-         url('../fonts/opensans-regular-webfont.woff') format('woff');
+    font-family: 'Nunito';
+    src: url('../fonts/nunito/Nunito-Regular.ttf') format('woff2');
     font-style: normal;
-
 }
-
