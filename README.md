@@ -3,13 +3,17 @@
  <h4>
     <img src="https://img.shields.io/badge/Weblings-3.0-purple.svg" />
     <a href="https://github.com/seanosullivanuk/weblings/commits/master"><img src="https://img.shields.io/github/last-commit/seanosullivanuk/weblings.svg?style=plasticr"/></a>
-  </h4>
+ </h4>
+
+<h4>
+    <a href="https://microsoftedge.microsoft.com/addons/detail/weblings/nihcnmmkgpmgdchginblgdbpfhjclpmf?hl=en-GB"><img src="https://img.shields.io/badge/Download%20for-Edge-blue" /></>
+    <a href="https://chrome.google.com/webstore/detail/weblings/ajcegoplibdllogbfdappiaehbfgmehg"><img src="https://img.shields.io/badge/Download%20for-Chrome-green" /></>
+    <a href="https://addons.mozilla.org/en-GB/firefox/addon/weblings/"><img src="https://img.shields.io/badge/Download%20for-Firefox-red" /></>
+</h4>
 
 Add a little joy to your browser's new tab page.
 
 ![Weblings in Edge](https://raw.githubusercontent.com/seanosullivanuk/weblings/master/weblings3-splash.png)
-
-Add a little joy to your browser's new tab page.
 
 Add a little colour and joy to your new browser tabs with Weblings. 
 
@@ -26,7 +30,7 @@ Every time you open a new tab or window in Edge, one of the Weblings will appear
 🎨 Customise it however you like, by mixing up the Weblings, dialogue and background sets
 
 ## Official store links
-[Weblings on the Microsoft Edge Add-Ons Store - Pending review](#)
+[Weblings on the Microsoft Edge Add-Ons Store](https://microsoftedge.microsoft.com/addons/detail/weblings/nihcnmmkgpmgdchginblgdbpfhjclpmf?hl=en-GB)
 
 [Weblings on the Google Chrome Store](https://chrome.google.com/webstore/detail/weblings/ajcegoplibdllogbfdappiaehbfgmehg)
 
