@@ -11,8 +11,6 @@
     <a href="https://addons.mozilla.org/en-GB/firefox/addon/weblings/"><img src="https://img.shields.io/badge/Download%20for-Firefox-red" /></>
 </h4>
 
-Add a little joy to your browser's new tab page.
-
 ![Weblings in Edge](https://raw.githubusercontent.com/seanosullivanuk/weblings/master/weblings3-splash.png)
 
 Add a little colour and joy to your new browser tabs with Weblings. 
