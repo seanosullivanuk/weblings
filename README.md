@@ -6,9 +6,9 @@
  </h4>
 
 <h4>
-    <a href="https://microsoftedge.microsoft.com/addons/detail/weblings/nihcnmmkgpmgdchginblgdbpfhjclpmf?hl=en-GB"><img src="https://img.shields.io/badge/Download%20for-Edge-blue" /></>
-    <a href="https://chrome.google.com/webstore/detail/weblings/ajcegoplibdllogbfdappiaehbfgmehg"><img src="https://img.shields.io/badge/Download%20for-Chrome-green" /></>
-    <a href="https://addons.mozilla.org/en-GB/firefox/addon/weblings/"><img src="https://img.shields.io/badge/Download%20for-Firefox-red" /></>
+    <a href="https://microsoftedge.microsoft.com/addons/detail/weblings/nihcnmmkgpmgdchginblgdbpfhjclpmf?hl=en-GB"><img src="https://img.shields.io/badge/Download%20for-Edge-blue" /></a>
+    <a href="https://chrome.google.com/webstore/detail/weblings/ajcegoplibdllogbfdappiaehbfgmehg"><img src="https://img.shields.io/badge/Download%20for-Chrome-green" /></a>
+    <a href="https://addons.mozilla.org/en-GB/firefox/addon/weblings/"><img src="https://img.shields.io/badge/Download%20for-Firefox-red" /></a>
 </h4>
 
 ![Weblings in Edge](https://raw.githubusercontent.com/seanosullivanuk/weblings/master/weblings3-splash.png)
