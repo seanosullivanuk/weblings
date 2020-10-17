@@ -3,7 +3,7 @@
 Name:			Core
 Description: 	Core stylesheet
 Author:			Sean O'Sullivan
-Version:		2020-06-27
+Version:		2020-10-17
 
 */
 
@@ -16,6 +16,14 @@ body, html {
     margin: auto;
     width: 100%;
     min-height: 100%;
+}
+
+#container_background_darkmodemask {
+    position: absolute;
+    opacity: 0; 
+    width: 100%;
+    min-height: 100%;
+    background-color: #161616;
 }
 
 #container_weblingcontent {

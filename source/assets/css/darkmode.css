@@ -1,0 +1,51 @@
+/*
+
+Name:			Dark Mode
+Description: 	Dark Mode stylesheet
+Author:		  	Sean O'Sullivan
+Version:	  	2020-10-17
+
+*/
+
+@media (prefers-color-scheme: dark) {
+
+    #container_weblingcontent {
+        background-color: #1f1d1d;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12), 0 2px 4px -1px rgba(0,0,0,.2);
+        opacity: 0.9;
+    }
+    
+    #container_options_header {
+        background-color: #2b2b2b;
+        color: #000;
+    }
+    
+    #container_options_content {
+        background-color: #2b2b2b;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12), 0 2px 4px -1px rgba(0,0,0,.2);
+    }
+
+    #container_weblingcontent_mouthpiece {
+        color: #d1d5da;
+    }
+
+    #container_background_darkmodemask {
+        opacity: 0.5; 
+    }
+
+    #container_options_header h2 {
+        color: #d1d5da;
+    }
+    #container_options_content h3 {
+        color: #d1d5da;
+    }
+
+    #container_options_content p {
+        color: #d1d5da;
+    }
+
+    #status {
+        color: #d1d5da;
+    }
+
+}

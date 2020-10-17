@@ -99,7 +99,16 @@ var sets_dialogue_greetings = [
     'What are you up to today?',
     'Is it me or do you get the feeling someone\'s looking?',
     'I\'m ticklish',
-    'In case I don\'t see you. Good morning, good afternoon and good evening'
+    'In case I don\'t see you. Good morning, good afternoon and good evening',
+    'Yo!',
+    'Sup?',
+    'Aloha!',
+    'Ciao amico',
+    'I\'ve missed you!',
+    'How about a book later?',
+    'Oi, oi!',
+    'Bonjour!',
+    'Howdy, partner'
 ]
 
 var sets_dialogue_puns = [
@@ -112,8 +121,23 @@ var sets_dialogue_puns = [
     'Atoms cannot be trusted. They make up everything',
     'I like your network. I`m feeling a connection',
     'The F5 key is so refreshing',
-    'Do you think if the police search for a brush, they`re combing the area?'
-]
+    'Do you think if the police search for a brush, they`re combing the area?',
+    'Always bee yourself. There\'s a buzz about you',
+    'Skeleton puns can be very humerus',
+    'Vampire puns suck!',
+    'Puns about wine are usually in pour taste...',
+    'Sharks are jawsome',
+    'A good artist knows where to draw the line',
+    'Rest in peace boiling water, you will be mist',
+    'My math teacher called me average. How mean!',
+    'Velcro... what a rip-off',
+    'A backwards poet writes inverse',
+    'You gotta hand it to short people',
+    'No matter how hard you push the envelope it will still be stationery',
+    'I wrote a song for a tortilla. Well, its more of a wrap',
+    'I can\'t stand sitting',
+    'Don\'t mind me, I\'m browsing just like you'
+  ]
 
 var sets_dialogue_positivity = [
     'Let\'s make a difference today',
@@ -125,7 +149,13 @@ var sets_dialogue_positivity = [
     'Fall seven times and stand up eight',
     'Time is precious. Let\'s not waste today',
     'There is power in having a positive mindset',
-    'Focus on what is great in your life'
+    'Focus on what is great in your life',
+    'Don\'t follow your dreams. Chase them',
+    'Don\'t allow yesterday to take up too much of today',
+    'Be positive. Be patient. Be persistant',
+    'Try not to stress over thing\'s you can\'t control',
+    'You got this!',
+    'Positive thinking, positive outcomes'
 ]
 
 // Sets - Backgrounds

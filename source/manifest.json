@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Weblings",
     "short_name": "Weblings",
-    "version": "3.0",
+    "version": "3.1",
     "author": "Sean O'Sullivan",
     "description": "Add a little joy to your browser's new tab page.",
     "homepage_url": "https://seanosullivan.co.uk/projects/weblings/",
@@ -19,11 +19,6 @@
     "options_ui": {
       "page": "options.html",
       "open_in_tab": true  
-    },
-    "browser_specific_settings": {
-      "gecko": {
-        "id": "{159a480e-7f70-497d-be75-1b4a8f19a603}"
-      }
     }
     
 }
