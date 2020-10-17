@@ -1,7 +1,7 @@
 # Weblings
 
  <h4>
-    <img src="https://img.shields.io/badge/Weblings-3.0-purple.svg" />
+    <img src="https://img.shields.io/badge/Weblings-3.1-purple.svg" />
     <a href="https://github.com/seanosullivanuk/weblings/commits/master"><img src="https://img.shields.io/github/last-commit/seanosullivanuk/weblings.svg?style=plasticr"/></a>
  </h4>
 
@@ -26,6 +26,8 @@ Every time you open a new tab or window in Edge, one of the Weblings will appear
 🌈 Solid colour or gradient backgrounds
 
 🎨 Customise it however you like, by mixing up the Weblings, dialogue and background sets
+
+🌚 Dark Mode support. Weblings will automatically switch from light to dark, matching your operating system
 
 ## Official store links
 [Weblings on the Microsoft Edge Add-Ons Store](https://microsoftedge.microsoft.com/addons/detail/weblings/nihcnmmkgpmgdchginblgdbpfhjclpmf?hl=en-GB)
