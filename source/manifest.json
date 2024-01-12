@@ -1,8 +1,8 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Weblings",
     "short_name": "Weblings",
-    "version": "3.1",
+    "version": "3.1.1",
     "author": "Sean O'Sullivan",
     "description": "Add a little joy to your browser's new tab page.",
     "homepage_url": "https://seanosullivan.co.uk/projects/weblings/",
